@@ -181,8 +181,9 @@ font-size: 30px;
 
 <!-- Footer -->
 <footer class="container-fluid bg-4 text-center">
-  <p>Bootstrap Theme Made By AMAN FAROOQUI</p>
+  <p>Bootstrap Theme Made By HRITIK JAISWAL</p>
 </footer>
 
 </body>
 </html>
+
