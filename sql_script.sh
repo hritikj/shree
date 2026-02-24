@@ -10,7 +10,7 @@ CREATE USER '$DB_USER'@'localhost' IDENTIFIED BY '$DB_PASS';
 GRANT ALL PRIVILEGES ON $DB_NAME.* TO '$DB_USER'@'localhost';
 FLUSH PRIVILEGES;
 
-mysql -u $DB_USER -p $DB_PASS $DB_NAME < $SQL_PATH
-
 DB_SCRIPT
+mysql -u $DB_USER -p $DB_PASS $DB_NAME < $SQL_PATH
 echo "Success"
+
