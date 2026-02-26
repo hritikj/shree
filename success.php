@@ -16,7 +16,7 @@ include("header.html");
 
 
         <footer style="margin-top:10px;">
-           <p style="text-align:center; font-size:0.8em;">&copy; BOLT Sports Shop. All Rights Reserved.</p>
+           <p style="text-align:center; font-size:0.8em;">&copy; Shreepal Agency. All Rights Reserved.</p>
         </footer>
 
       </div>
