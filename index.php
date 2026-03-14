@@ -73,7 +73,7 @@ font-size: 30px;
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#">SHREEPALV3 AGENCY</a>
+      <a class="navbar-brand" href="#">SHREEPAL AGENCY</a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
